@@ -1,2 +1,2 @@
 # LEGO
-Assorted LEGO pieces for 3D printing
+Assorted LEGO bricks for 3D printing.
