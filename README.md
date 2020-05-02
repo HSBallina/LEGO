@@ -1,5 +1,6 @@
 # LEGO
 Assorted LEGO bricks for 3D printing.
+![3D printed LEGO](https://github.com/HSBallina/LEGO/blob/master/Printed.jpg)
 ## Background
 Since the bricks exported from LDraw aren't smooth enough (or I suck at exporting) I started creating bricks I needed for my own projects. I will add bricks as I create new ones.
 ## Requests and contribution
